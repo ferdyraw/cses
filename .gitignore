@@ -1,3 +1,4 @@
-doc 
 *.vscode
 *.exe
+*.cph
+*.bin
