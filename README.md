@@ -1,2 +1,2 @@
 # CSES
-Fun cses coding for icpc preparation.
+Fun cses coding :)
